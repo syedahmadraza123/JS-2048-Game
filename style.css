@@ -29,8 +29,8 @@ p, h2{
 .grid{
     display: flex;
     flex-wrap: wrap;
-    width: 456px;
-    height: 456px;
+    width: 460px;
+    height: 460px;
     background-color: #bbada0;
     border-radius: 7px solid #bbada0;
     margin-top: 20px
